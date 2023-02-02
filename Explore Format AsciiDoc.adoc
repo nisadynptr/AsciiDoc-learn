@@ -1,0 +1,13 @@
+= Explore Format AsciiDoc > BAB
+
+== Apa itu asciiDoc? > Sub Bab
+AsciiDoc merupakan simpel fprmat teks yang cocok digunakan untuk menulis artikel,HTML, dsb dan dapat dipahami dengan kasat mata.
+
+=== Install extension asciiDoc di VS Code > Sub sub bab
+. Buka aplikasi VS Code
+. Pilih extensions, cari bahasa asciidoc, klik kemudian install
+
+==== Membuat File dengan Format asciiDoc > Sub sub sub bab
+* Buat file baru dengan klik kombinasi (Ctrl+N)
+* Pilih mode bahasa dengan memilih bahasa AsciiDoc
+* dan seterusnya...
