@@ -1,7 +1,7 @@
 = Explore Format AsciiDoc > BAB
 
 == Apa itu asciiDoc? > Sub Bab
-AsciiDoc merupakan simpel fprmat teks yang cocok digunakan untuk menulis artikel,HTML, dsb dan dapat dipahami dengan kasat mata.
+AsciiDoc merupakan simpel format teks yang cocok digunakan untuk menulis artikel,HTML, dsb dan dapat dipahami dengan kasat mata.
 
 === Install extension asciiDoc di VS Code > Sub sub bab
 . Buka aplikasi VS Code
